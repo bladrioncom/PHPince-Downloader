@@ -30,7 +30,7 @@ $(function() {
 /*---------------------------------------------------------------------+
 | PHPince Website
 | Copyright (c) 2011 - 2013 Dominik Hulla
-| Web: http://phpince.com
+| Web: http://phpince.org
 | Author: Dominik Hulla / dh@bladrion.com
 | Developer: Bladrion Technologies (http://bladrion.com)
 +----------------------------------------------------------------------+
