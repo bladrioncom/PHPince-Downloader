@@ -24,7 +24,7 @@ $(function() {
 <body>
 <h1>PHPince Website - Downloader</h1>
 <h3>The system is downloading, please wait a moment ...</h3>
-<img src="//api.phpince.com/cdn/loading01.gif" alt="Loading..." />
+<img src="http://api.phpince.org/cdn/loading01.gif" alt="Loading..." />
 <iframe id="downloader" src="index.php?download=ok" style="display:none;"></iframe>
 <?php
 /*---------------------------------------------------------------------+
